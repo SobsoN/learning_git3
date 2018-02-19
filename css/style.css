@@ -1,0 +1,16 @@
+body {
+  text-align: center;
+  background-color: #ff0;
+  margin: 0 auto; }
+  body h1 {
+    font-size: 50px; }
+  body p {
+    font-size: 30px; }
+  body .first-paragraph {
+    color: #000; }
+  body .second-paragraph {
+    color: #f00; }
+  body .third-paragraph {
+    color: #00b; }
+
+/*# sourceMappingURL=style.css.map */

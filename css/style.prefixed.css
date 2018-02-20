@@ -2,6 +2,7 @@ body {
   text-align: center;
   background-color: #ff3;
   margin: 0 auto;
+  display: -ms-flexbox;
   display: flex; }
   body h1 {
     font-size: 50px; }
@@ -14,4 +15,4 @@ body {
   body .third-paragraph {
     color: #00b; }
 
-/*# sourceMappingURL=style.css.map */
+/*# sourceMappingURL=style.prefixed.css.map */
